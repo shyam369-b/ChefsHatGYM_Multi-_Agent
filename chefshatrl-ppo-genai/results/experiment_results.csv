@@ -1,0 +1,4 @@
+mode,win_rate,avg_reward,std_reward,avg_length
+random,1.0,79.425,1.5409007106234978,20.0
+genai,1.0,79.345,1.5607610323172474,20.0
+selfplay,1.0,79.335,1.752933256002635,20.0
