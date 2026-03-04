@@ -1,0 +1,12 @@
+Opponent: Random
+  DQN - Avg Reward: 41.34, Win Rate: 0.0%
+  SAC - Avg Reward: 80.00, Win Rate: 0.0%
+
+Opponent: Fixed
+  DQN - Avg Reward: 39.58, Win Rate: 0.0%
+  SAC - Avg Reward: 80.00, Win Rate: 0.0%
+
+Opponent: Learning
+  DQN - Avg Reward: 41.20, Win Rate: 0.0%
+  SAC - Avg Reward: 80.00, Win Rate: 0.0%
+
